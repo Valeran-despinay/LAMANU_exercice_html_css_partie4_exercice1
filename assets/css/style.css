@@ -1,0 +1,49 @@
+#babibabi {
+    display: grid;
+    grid-template-columns: repeat(3, 120px);
+    grid-auto-rows: minmax(10px, 50px);
+}
+
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine{
+    height:40px;
+    width: 100px;
+    font-style: #ffffff;
+    line-height: 40px;
+    padding-left: 10px;
+
+    color: #ffffff;
+}
+
+.one{
+    background-color: #B03532;
+}
+
+.two{
+    background-color: #33A8A5;
+}
+.three{
+    background-color: #4f7066;
+}
+.four{
+    background-color:#6A478F;
+}
+
+.five{
+    background-color: #DA6F2B;
+}
+
+.six{
+    background-color:#3D8BB1;
+}
+
+.seven{
+    background-color:#E03F3F;
+}
+
+.eight{
+    background-color:#59A627;
+}
+
+.nine{
+    background-color:#4464A1;
+}
